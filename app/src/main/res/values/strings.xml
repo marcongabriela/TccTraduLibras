@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TelaLogin</string>
+    <string name="stringlogin">Digite seu login</string>
+    <string name="stringsenha">Digite sua senha</string>
+    <string name="recuperarsenha">Esqueceu a sua senha?</string>
+    <string name="cadastro">Primeiro acesso? Faça seu cadastro aqui</string>
+    <string name="Acessar">Acessar</string>
+</resources>
